@@ -11,3 +11,4 @@ Disclaimer: This project is currently a work in progress. The endgoal is to have
  - [ ] Write function to select and serve quotes randomly
  - [ ] Fix format for quotes not in good looks due to special characters
  - [ ] Deploy to production for open use
+ - [ ] Have a simple website that randomly displays a quote. Style: text on a background image taken from unsplash.
